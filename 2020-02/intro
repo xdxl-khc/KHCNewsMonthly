@@ -1,0 +1,2 @@
+Tools: Jupyter Notebook
+Libs: urllib, random, re, requests, bs4, time, calendar, datetime, altair, numpy, pandas
